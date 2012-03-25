@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/23/trunk/src/openid/test
+END
+linkparse.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/src/openid/test/linkparse.py
+END
+test_association_response.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/src/openid/test/test_association_response.py
+END
+test_consumer.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/src/openid/test/test_consumer.py
+END
+storetest.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/src/openid/test/storetest.py
+END
+test_parsehtml.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/src/openid/test/test_parsehtml.py
+END
+test_sreg.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/src/openid/test/test_sreg.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/src/openid/test/__init__.py
+END
+cryptutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/src/openid/test/cryptutil.py
+END
+test_nonce.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/src/openid/test/test_nonce.py
+END
+test_xri.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/src/openid/test/test_xri.py
+END
+test_htmldiscover.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/src/openid/test/test_htmldiscover.py
+END
+test_fetchers.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/src/openid/test/test_fetchers.py
+END
+test_rpverify.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/src/openid/test/test_rpverify.py
+END
+test_openidyadis.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/src/openid/test/test_openidyadis.py
+END
+test_ax.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/src/openid/test/test_ax.py
+END
+discoverdata.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/src/openid/test/discoverdata.py
+END
+test_association.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/src/openid/test/test_association.py
+END
+trustroot.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/src/openid/test/trustroot.txt
+END
+test_discover.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/src/openid/test/test_discover.py
+END
+test_examples.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/src/openid/test/test_examples.py
+END
+linkparse.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/src/openid/test/linkparse.txt
+END
+test_negotiation.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/src/openid/test/test_negotiation.py
+END
+urinorm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/src/openid/test/urinorm.txt
+END
+test_pape.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/src/openid/test/test_pape.py
+END
+test_etxrd.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/src/openid/test/test_etxrd.py
+END
+trustroot.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/src/openid/test/trustroot.py
+END
+test_urinorm.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/src/openid/test/test_urinorm.py
+END
+dh.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/src/openid/test/dh.py
+END
+test_accept.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/src/openid/test/test_accept.py
+END
+kvform.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/src/openid/test/kvform.py
+END
+n2b64
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/src/openid/test/n2b64
+END
+test_symbol.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/src/openid/test/test_symbol.py
+END
+dhpriv
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/src/openid/test/dhpriv
+END
+test_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/src/openid/test/test_server.py
+END
+test_yadis_discover.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/src/openid/test/test_yadis_discover.py
+END
+test_auth_request.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/src/openid/test/test_auth_request.py
+END
+oidutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/src/openid/test/oidutil.py
+END
+test_xrires.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/src/openid/test/test_xrires.py
+END
+support.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/src/openid/test/support.py
+END
+datadriven.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/src/openid/test/datadriven.py
+END
+test_services.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/src/openid/test/test_services.py
+END
+test_message.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/src/openid/test/test_message.py
+END
+test_verifydisco.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/src/openid/test/test_verifydisco.py
+END

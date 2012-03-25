@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_etxrd
+END
+sometimesprefix.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_etxrd/sometimesprefix.xrds
+END
+prefixsometimes.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_etxrd/prefixsometimes.xrds
+END
+delegated-20060809.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_etxrd/delegated-20060809.xrds
+END
+delegated-20060809-r1.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_etxrd/delegated-20060809-r1.xrds
+END
+delegated-20060809-r2.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_etxrd/delegated-20060809-r2.xrds
+END
+no-xrd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_etxrd/no-xrd.xml
+END
+spoof1.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_etxrd/spoof1.xrds
+END
+valid-populated-xrds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_etxrd/valid-populated-xrds.xml
+END
+spoof2.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_etxrd/spoof2.xrds
+END
+status222.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_etxrd/status222.xrds
+END
+spoof3.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_etxrd/spoof3.xrds
+END
+ref.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_etxrd/ref.xrds
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_etxrd/README
+END
+not-xrds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_etxrd/not-xrds.xml
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_discover
+END
+yadis_2entries_idp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_discover/yadis_2entries_idp.xml
+END
+openid2_xrds_no_local_id.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_discover/openid2_xrds_no_local_id.xml
+END
+yadis_0entries.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_discover/yadis_0entries.xml
+END
+openid.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_discover/openid.html
+END
+yadis_another_delegate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_discover/yadis_another_delegate.xml
+END
+yadis_2_bad_local_id.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_discover/yadis_2_bad_local_id.xml
+END
+openid_and_yadis.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_discover/openid_and_yadis.html
+END
+yadis_no_delegate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_discover/yadis_no_delegate.xml
+END
+yadis_idp_delegate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_discover/yadis_idp_delegate.xml
+END
+openid2_xrds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_discover/openid2_xrds.xml
+END
+openid_1_and_2_xrds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_discover/openid_1_and_2_xrds.xml
+END
+openid_1_and_2_xrds_bad_delegate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_discover/openid_1_and_2_xrds_bad_delegate.xml
+END
+openid2.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_discover/openid2.html
+END
+yadis_idp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_discover/yadis_idp.xml
+END
+openid_1_and_2.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_discover/openid_1_and_2.html
+END
+openid_no_delegate.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_discover/openid_no_delegate.html
+END
+yadis_2entries_delegate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/23/trunk/src/openid/test/data/test_discover/yadis_2entries_delegate.xml
+END

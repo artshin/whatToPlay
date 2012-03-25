@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/23/trunk/src/openid
+END
+oidutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/src/openid/oidutil.py
+END
+dh.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/23/trunk/src/openid/dh.py
+END
+urinorm.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/src/openid/urinorm.py
+END
+association.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/src/openid/association.py
+END
+extension.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/src/openid/extension.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/src/openid/__init__.py
+END
+cryptutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/src/openid/cryptutil.py
+END
+sreg.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/src/openid/sreg.py
+END
+fetchers.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/src/openid/fetchers.py
+END
+kvform.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/src/openid/kvform.py
+END
+message.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/src/openid/message.py
+END

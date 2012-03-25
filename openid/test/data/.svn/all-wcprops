@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/src/openid/test/data
+END
+openid-1.2-consumer-sqlitestore.db
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/23/trunk/src/openid/test/data/openid-1.2-consumer-sqlitestore.db
+END
+example-xrds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/src/openid/test/data/example-xrds.xml
+END
+test1-discover.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/src/openid/test/data/test1-discover.txt
+END
+test1-parsehtml.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/src/openid/test/data/test1-parsehtml.txt
+END
+accept.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/src/openid/test/data/accept.txt
+END
