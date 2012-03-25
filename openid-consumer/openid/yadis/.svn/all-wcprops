@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/37/trunk/openid-consumer/openid/yadis
+END
+filters.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/37/trunk/openid-consumer/openid/yadis/filters.py
+END
+manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/37/trunk/openid-consumer/openid/yadis/manager.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/37/trunk/openid-consumer/openid/yadis/constants.py
+END
+xrires.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/37/trunk/openid-consumer/openid/yadis/xrires.py
+END
+discover.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/37/trunk/openid-consumer/openid/yadis/discover.py
+END
+parsehtml.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/37/trunk/openid-consumer/openid/yadis/parsehtml.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/37/trunk/openid-consumer/openid/yadis/__init__.py
+END
+accept.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/37/trunk/openid-consumer/openid/yadis/accept.py
+END
+xri.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/37/trunk/openid-consumer/openid/yadis/xri.py
+END
+services.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/37/trunk/openid-consumer/openid/yadis/services.py
+END
+etxrd.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/37/trunk/openid-consumer/openid/yadis/etxrd.py
+END

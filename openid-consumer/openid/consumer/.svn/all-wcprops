@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/37/trunk/openid-consumer/openid/consumer
+END
+consumer.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/37/trunk/openid-consumer/openid/consumer/consumer.py
+END
+discover.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/37/trunk/openid-consumer/openid/consumer/discover.py
+END
+html_parse.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/37/trunk/openid-consumer/openid/consumer/html_parse.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/37/trunk/openid-consumer/openid/consumer/__init__.py
+END

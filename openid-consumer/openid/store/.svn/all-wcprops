@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/37/trunk/openid-consumer/openid/store
+END
+memstore.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/37/trunk/openid-consumer/openid/store/memstore.py
+END
+filestore.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/37/trunk/openid-consumer/openid/store/filestore.py
+END
+sqlstore.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/37/trunk/openid-consumer/openid/store/sqlstore.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/37/trunk/openid-consumer/openid/store/__init__.py
+END
+interface.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/37/trunk/openid-consumer/openid/store/interface.py
+END
+nonce.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/37/trunk/openid-consumer/openid/store/nonce.py
+END

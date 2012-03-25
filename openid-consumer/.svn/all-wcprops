@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/107/trunk/openid-consumer
+END
+app.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/37/trunk/openid-consumer/app.yaml
+END
+consumer.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/openid-consumer/consumer.py
+END
+store.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/openid-consumer/store.py
+END
+fetcher.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/107/trunk/openid-consumer/fetcher.py
+END
+index.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/107/trunk/openid-consumer/index.yaml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/37/trunk/openid-consumer/README
+END
